@@ -36,3 +36,4 @@ C:\Users\navee\Desktop\SkaftoBageriWMS\SkaftoBageriWMS\obj\Debug\net8.0\refint\S
 C:\Users\navee\Desktop\SkaftoBageriWMS\SkaftoBageriWMS\obj\Debug\net8.0\SkaftoBageriWMS.pdb
 C:\Users\navee\Desktop\SkaftoBageriWMS\SkaftoBageriWMS\obj\Debug\net8.0\SkaftoBageriWMS.genruntimeconfig.cache
 C:\Users\navee\Desktop\SkaftoBageriWMS\SkaftoBageriWMS\obj\Debug\net8.0\ref\SkaftoBageriWMS.dll
+C:\Users\navee\Desktop\SkaftoBageriWMS\SkaftoBageriWMS\obj\Debug\net8.0\SkaftoBageriWMS.sourcelink.json
